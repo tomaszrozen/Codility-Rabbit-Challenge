@@ -1,7 +1,4 @@
-# Codility-Rabbit-Challenge'
-
-![image](https://user-images.githubusercontent.com/92816453/221324251-8db00e67-49e2-40af-b487-f93d32e3c9bd.png)
-
+# Codility-Rabbit-Challenge
 
 There are N people sitting at a round table, having dinner. They are numbered from 0 to N-1 in clockwise order. Initially, each person has a dish on the table in front of them. Person number K does not like the taste of A[K], but has a dish of taste B[K]. We want every person to have a dish of a taste that they do not dislike, i.e. A[K] ≠ B[K] for each K from 0 to N-1.
 
@@ -29,3 +26,7 @@ N is an integer within the range [1..300];
 each element of arrays A and B is an integer within the range [0..1,000];
 arrays A and B have equal sizes.
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
+
+https://app.codility.com/cert/view/certCB4REF-2MENS94XGJCN6QGE/
+![image](https://user-images.githubusercontent.com/92816453/221324372-3fa9319b-830e-4876-b5c9-c41ddfa4d3ff.png)
+
