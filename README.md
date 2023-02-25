@@ -27,6 +27,5 @@ each element of arrays A and B is an integer within the range [0..1,000];
 arrays A and B have equal sizes.
 In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
 
-https://app.codility.com/cert/view/certCB4REF-2MENS94XGJCN6QGE/
-![image](https://user-images.githubusercontent.com/92816453/221324372-3fa9319b-830e-4876-b5c9-c41ddfa4d3ff.png)
+
 
